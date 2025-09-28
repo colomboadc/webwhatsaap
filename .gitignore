@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Dados/segredos (NÃO versionar)
+whatsweb.db
+auth/
+*.log
+.env
+.env.*.local
+
+# SO/editores
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
