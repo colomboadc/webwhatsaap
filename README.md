@@ -22,4 +22,4 @@ Muito obrigado!
 
 ---
 
-Quer que eu ajuste esse texto para ter um tom mais **profissional e formal**, ou prefere manter esse estilo **direto e popular**?
+
